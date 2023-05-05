@@ -10,8 +10,6 @@ sidebar:
 
 <br>
 
-# 참고용 : 리눅스, C언어 치트시트
-
 ## 리눅스 CheetSheet
 
 - pwd : 현재 위치 출력
