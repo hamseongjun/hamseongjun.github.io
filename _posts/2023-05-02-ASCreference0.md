@@ -4,6 +4,8 @@ title: "참고용 : 리눅스, C언어 치트시트"
 categories: "ASC-Programing_study"
 tags: [ASC, 참고용]
 author_profile: false
+header:
+    teaser: /assets/images/C.png
 sidebar:
     nav: "counts"
 ---

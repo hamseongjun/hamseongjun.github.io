@@ -4,6 +4,8 @@ title: "참고용 : 깃허브 사용법"
 categories: "ASC-Programing_study"
 tags: [ASC, 참고용]
 author_profile: false
+header:
+    teaser: /assets/images/GitHub.jpeg
 sidebar:
     nav: "counts"
 ---
