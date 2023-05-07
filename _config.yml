@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/profile_penguin.jpeg"
   bio              : "Welcome to my blog!"
   location         : "South Korea"
-  email            : "gkatjdwns10@gmail.com"
+  email            : # "gkatjdwns10@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
